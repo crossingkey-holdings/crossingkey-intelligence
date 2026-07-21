@@ -2,17 +2,23 @@
 
 CrossingKey Intelligence is a founder-led practice focused on practical AI systems, product architecture, and clear human-facing design.
 
-## Purpose
+## Public portfolio
 
-This repository is the public front door for company direction, public principles, selected release notes, and a clear map to related work.
+| Repository | Purpose |
+| --- | --- |
+| [Founder Record](../crossingkey-founder-record) | Dated, public-safe development and authorship context |
+| [Design Language](../crossingkey-design-language) | Visual, interface, and accessibility standards |
+| [Product Catalog](../crossingkey-product-catalog) | Accurate product and release information |
+| [Public Research](../crossingkey-public-research) | Source-led research and analysis |
+| [Open Specifications](../crossingkey-open-specifications) | Versioned public interface conventions |
+| [Developer Documentation](../crossingkey-developer-documentation) | Integration and compatibility guidance |
+| [Web Experience](../crossingkey-web-experience) | Website standards and public release notes |
+| [Case Studies](../crossingkey-case-studies) | Approved public outcome narratives |
 
-## Contents
+## Operating posture
 
-- Company principles and operating posture
-- Public architecture boundaries
-- Release and documentation index
-- Links to product, design, research, and specification repositories
+- Separate released work, active work, and plans.
+- Design for human review, clear ownership, and reversible decisions.
+- Treat privacy, security, and honest product descriptions as release requirements.
 
-## Exclusions
-
-This repository does not contain private infrastructure, credentials, customer data, unreleased source, security-sensitive operating detail, or claims that cannot be responsibly supported.
+This public portfolio never contains credentials, customer data, private infrastructure, unreleased source, or security-sensitive operating detail.
